@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">League of Legends</string>
+    <string name="add_experience">Add Experience</string>
+    <string name="add_education">Add Education</string>
 </resources>
